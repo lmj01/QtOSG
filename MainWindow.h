@@ -17,6 +17,7 @@ private slots:
 
 private:
   QMdiArea* mdiArea_;
+  int a;
 };
 
 #endif
